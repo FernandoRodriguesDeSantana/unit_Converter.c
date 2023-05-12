@@ -60,3 +60,18 @@ int main(){
 
     return 0;
 }
+
+---------------------------------------------------
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main(){
+    float value[10] = {1000, 100, 10, 1, 0.1, 0.01, 0.001};
+    int choice;
+ 
+    
+    
+    return 0;
+}
